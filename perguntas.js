@@ -19,5 +19,23 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Oi em ingles é HI (RAI).'
+)
+
+criaCartao(
+    'Anime',
+    'Qual anime que é conhecido como "o Pai dos Animes?',
+    'Dragon Ball Z.'
+)
+
+criaCartao(
+    'Esporte',
+    'Como se chama esporte onde envolve apenas sequência de socos, desvio e "footwork"?',
+    'Boxe.'
+)
+
+criaCartao(
+    'Futebol',
+    'Qual foi a primeira Copa do Mundo?',
+    '19 de dezembro de 1863.'
 )
